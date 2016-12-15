@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mix deps.get
+createdb graphql-template_develop
